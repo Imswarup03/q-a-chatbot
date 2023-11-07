@@ -1,0 +1,6 @@
+1. Take a document and splitting into chunks based on delimiters using pdf miner and pymupdf
+2.Getting meta data from the document
+3. Learn about embeddings create embeddings (embedding model, e.g- word2pdf)
+
+Langchain 
+===============
